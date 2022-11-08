@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**For the better world**
+
+최근에는 Flutter, iOS(SwiftUI), Android Jetpack, Rust, Rust와 Flutter 의 연동에 관심이 있습니다.
+
 <!--
 **letyletylety/letyletylety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
