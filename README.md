@@ -32,8 +32,7 @@
 
 <a href="https://www.duolingo.com/profile/jjU8?via=leagues">![image](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lety)](https://solved.ac/lety)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=lety)](https://solved.ac/lety)
 
 ## 📫 How to reach me:
 <a href="mailto:nologic.lety@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
