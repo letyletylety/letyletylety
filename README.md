@@ -1,8 +1,13 @@
 # **For the better world**
 
-You can call me lety.
+You can call me lety. 🤪
 
-### recently working on ...
+## 📫 How to reach me:
+<a href="mailto:nologic.lety@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="http://letyarch.blogspot.com">![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
+
+
+## recently working on ...
 
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -15,7 +20,7 @@ You can call me lety.
 
 ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### main experienced Tech Stack ...
+## main experienced Tech Stack ...
 
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,27 +38,21 @@ during National Service🙂 -- ![image](https://img.shields.io/badge/Perl-39457E
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### editor (from first to third)
+## editor (from first to third)
 
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### ?
+## ?
 
 <a href="https://www.duolingo.com/profile/jjU8?via=leagues">![image](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
 
 <a href="https://solved.ac/lety">![image](https://img.shields.io/badge/Boj.kr-P1-EEEEEE?style=for-the-badge&logoColor=black)</a>
 
-## 📫 How to reach me:
-<a href="mailto:nologic.lety@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="http://letyarch.blogspot.com">![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
-
-
 [![letyletylety's GitHub stats](https://github-readme-stats.vercel.app/api?username=letyletylety)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letyletylety&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
