@@ -41,7 +41,7 @@
 
 ## 📫 How to reach me:
 <a href="mailto:nologic.lety@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
+<a href="http://letyarch.blogspot.com">![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
 
 
 [![letyletylety's GitHub stats](https://github-readme-stats.vercel.app/api?username=letyletylety)](https://github.com/anuraghazra/github-readme-stats)
