@@ -21,7 +21,7 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### editor (usage possession order)
+### editor (from first to third)
 
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -36,7 +36,13 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lety)](https://solved.ac/lety)
 
 ## 📫 How to reach me:
-<a href="mailto://nologic.lety@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:nologic.lety@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
+
+[![letyletylety's GitHub stats](https://github-readme-stats.vercel.app/api?username=letyletylety)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letyletylety&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
@@ -54,6 +60,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![letyletylety's GitHub stats](https://github-readme-stats.vercel.app/api?username=letyletylety)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letyletylety&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
