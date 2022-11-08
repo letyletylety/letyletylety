@@ -18,7 +18,7 @@
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 during National Service 🙂 ![image](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![image](https://img.shields.io/badge/Visual Basic-EEEEEE?style=for-the-badge&logo=typescript&logoColor=black)
+![image](https://img.shields.io/badge/Visual_Basic-EEEEEE?style=for-the-badge&logo=typescript&logoColor=black)
 
 ![image](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
@@ -37,7 +37,7 @@ during National Service 🙂 ![image](https://img.shields.io/badge/Perl-39457E?s
 
 <a href="https://www.duolingo.com/profile/jjU8?via=leagues">![image](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
 
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=lety)](https://solved.ac/lety)
+<a href="https://solved.ac/lety">![image](https://img.shields.io/badge/Boj.kr-P1-EEEEEE?style=for-the-badge&logoColor=black)</a>
 
 ## 📫 How to reach me:
 <a href="mailto:nologic.lety@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
