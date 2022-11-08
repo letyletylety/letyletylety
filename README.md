@@ -4,7 +4,7 @@
 
 최근에는 **Flutter**, iOS(SwiftUI), Android Jetpack, **Rust**, Rust와 Flutter 사이 연동에 관심이 있습니다.
 
-그 밖의 경험 있는 것들 : C, C++, Go, Python3, Perl(군대), Visual Basic(군대), javascript, typescript, React, vscode extension 개발 경험, Web-front
+그 밖의 경험 있는 것들 : Go(echo, gin, fiber), C, C++, Python3, Perl(군대), Visual Basic(군대), javascript, typescript, React, vscode extension 개발 경험, Web-front
 
 <!--
 **letyletylety/letyletylety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
