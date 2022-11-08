@@ -29,8 +29,8 @@ You can call me lety. 🤪
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-during National Service🙂 -- ![image](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Basic-EEEEEE?style=for-the-badge&logoColor=black)
+![image](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Basic-EEEEEE?style=for-the-badge&logoColor=black)(during National Service🙂)
 
 ![image](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
