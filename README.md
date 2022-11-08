@@ -30,8 +30,8 @@
 ### ?
 
 <a href="https://www.duolingo.com/profile/jjU8?via=leagues">![image](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)</a>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lety)](https://solved.ac/lety)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lety)](https://solved.ac/lety)
 
 
 <!--
