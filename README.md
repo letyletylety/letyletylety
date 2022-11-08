@@ -38,7 +38,7 @@ during National Service🙂 -- ![image](https://img.shields.io/badge/Perl-39457E
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## ✍️ editor (from first to third)
+## ✍️ editor (from 1st to 3rd)
 
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
