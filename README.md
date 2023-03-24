@@ -52,6 +52,8 @@ You can call me lety. 🤪
 
 <a href="https://solved.ac/lety">![image](https://img.shields.io/badge/Boj.kr-P1-EEEEEE?style=for-the-badge&logoColor=black)</a>
 
+<a href="https://leetcode.com/lety">![image](https://img.shields.io/badge/leetcode-aaaaaa?style=for-the-badge&logoColor=black)</a>
+
 [![letyletylety's GitHub stats](https://github-readme-stats.vercel.app/api?username=letyletylety)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letyletylety&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
