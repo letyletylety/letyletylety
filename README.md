@@ -9,7 +9,7 @@ You can call me lety. 🤪
 
 
 
-## 🔥 recently working on ...
+## 🔥 recently working with ...
 
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
