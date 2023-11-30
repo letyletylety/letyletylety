@@ -5,6 +5,8 @@ You can call me lety. 🤪
 ## 📫 How to reach me:
 <a href="mailto:nologic.lety@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="http://letyarch.blogspot.com">![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
+<a href="https://medium.com/@taej0127">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+
 
 
 ## 🔥 recently working on ...
